@@ -1,1 +1,1 @@
-# iNueron-Assignemtns
+# iNueron-Assignments
